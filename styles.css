@@ -3,3 +3,8 @@
 
 
 /* Otro comentario interesante */
+
+.body {
+    background-color: red;
+    padding: 200px;
+}
